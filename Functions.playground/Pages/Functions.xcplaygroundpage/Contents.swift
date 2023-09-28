@@ -1,6 +1,7 @@
 //: ![Swift](swift-logo.png)
-//: Swift v5.7 [official docs](https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
-//: # 6. Functions
+//: Swift v5.7 | [Swift.org](https://docs.swift.org) | [The official Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics)
+//:
+//: # Page 6. Functions
 //:
 //:
 //: Functions are self-contained chunks of code that perform a specific task. You give a function a name that identifies what it does, and this name is used to “call” the function to perform its task when needed.
